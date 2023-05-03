@@ -49,5 +49,8 @@
 "adapter_ads_type": "nativebanner",
 "quizzo_link": "",
 "quizzo_show": false,
-"quizzo_header_show": false
+"quizzo_header_show": false,
+"app_open_interstitial_show": "false",
+"app_open_interstitial_ads_click": "0",
+"app_open_interstitial_back_click": "0"
 }
