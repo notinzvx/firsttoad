@@ -37,7 +37,7 @@
 "admob_native_btn_text_color": "#ffffff",
 "admob_native_context_text_color": "#ffffff",
 "analytics": false,
-"coming_soon": true,
+"coming_soon": false,
 "starting_screen_content_show": 3,
 "privacy_policy": "",
 "ads_button_animation": false,
