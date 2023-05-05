@@ -60,7 +60,7 @@
   "vpn_passsword": "hello",
   "vpn_direct_connect": true,
   "vpn_random_server": true,
-  "vpn_main_show": false,
+  "vpn_main_show": true,
   "vpn_country_name": "",
   "vpn_country_code": "",
   "vpn_thumbnail_url": "",
