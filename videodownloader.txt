@@ -42,7 +42,7 @@
 "privacy_policy": "",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
-"Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
+"Update_url": "https://play.google.com/store/apps/details?id=com.instagram.lite",
 "ads_animation_type": "zoominout",
 "adapter_ads": true,
 "adapter_ads_page_wise": 0,
