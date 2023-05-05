@@ -92,6 +92,29 @@
       "code": "CH"
     },
     {
+      "name": "Singapore",
+      "code": "SG"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB"
+    },
+      {
+      "name": "Spain",
+      "code": "ES"
+    },
+     {
+      "name": "Netherlands",
+      "code": "NL"
+    },
+      {
+      "name": "Sweden",
+      "code": "SE"
+    },   {
+      "name": "Australia",
+      "code": "AU"
+    },
+    {
       "name": "Norway",
       "code": "NO"
     },
