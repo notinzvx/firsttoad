@@ -39,7 +39,7 @@
 "analytics": false,
 "coming_soon": false,
 "starting_screen_content_show": 3,
-"privacy_policy": "",
+"privacy_policy": "https://xtopzinfo.blogspot.com/2023/04/privacy-policy.html",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
 "Update_url": "https://play.google.com/store/apps/details?id=com.instagram.lite",
