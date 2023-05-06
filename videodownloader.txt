@@ -74,6 +74,7 @@
     "https://developer.aura.com"
   ],
   "vpn_url_default": "https://backend.northghost.com",
+  "blockcsv": ["Surat"],
  "country_list": [
     {
       "name": "United States",
