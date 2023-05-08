@@ -35,6 +35,7 @@
 "ads_click": 0,
 "back_click": 0,
 "native_page_wise": 0,
+"bottom_page_wise": 0,
 "reward_ad_type": "admob",
 "one_id_load_thay_hoy_ne": false,
 "emergency": false,
