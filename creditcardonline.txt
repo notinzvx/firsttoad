@@ -3,16 +3,16 @@
 "facebook_bottom_native_ad_id": "",
 "facebook_interstitial_ad_id": "",
 "facebook_native_ad_id": "",
-"facebook_banner_ad_id": [
+"facebook_banner_ad_id1": [
 ""
 ],
-"facebook_bottom_native_ad_id": [
+"facebook_bottom_native_ad_id1": [
 ""
 ],
-"facebook_interstitial_ad_id": [
+"facebook_interstitial_ad_id1": [
 ""
 ],
-"facebook_native_ad_id": [
+"facebook_native_ad_id1": [
 ""
 ],
 "admob_appopen_ad_id": [
