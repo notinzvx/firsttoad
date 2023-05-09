@@ -3,6 +3,18 @@
 "facebook_bottom_native_ad_id": "",
 "facebook_interstitial_ad_id": "",
 "facebook_native_ad_id": "",
+"facebook_banner_ad_id1": [
+""
+],
+"facebook_bottom_native_ad_id1": [
+""
+],
+"facebook_interstitial_ad_id1": [
+""
+],
+"facebook_native_ad_id1": [
+""
+],
 "admob_appopen_ad_id": [
 ""
 ],
@@ -43,7 +55,7 @@
 "privacy_policy": "",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
-"Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
+"Update_url": "h",
 "ads_animation_type": "zoominout",
 "adapter_ads": false,
 "adapter_ads_page_wise": 0,
