@@ -1,19 +1,19 @@
 {
-"facebook_banner_ad_id": "",
-"facebook_bottom_native_ad_id": "",
-"facebook_interstitial_ad_id": "",
-"facebook_native_ad_id": "",
+"facebook_banner_ad_id": "254674240370841_254674820370783",
+"facebook_bottom_native_ad_id": "254674240370841_254674850370780",
+"facebook_interstitial_ad_id": "254674240370841_254674820370783",
+"facebook_native_ad_id": "254674240370841_254674850370780",
 "facebook_banner_ad_id1": [
-""
+"254674240370841_254674820370783"
 ],
 "facebook_bottom_native_ad_id1": [
-""
+"254674240370841_254674850370780"
 ],
 "facebook_interstitial_ad_id1": [
-""
+"254674240370841_254674820370783"
 ],
 "facebook_native_ad_id1": [
-""
+"254674240370841_254674850370780"
 ],
 "admob_appopen_ad_id": [
 ""
