@@ -16,19 +16,19 @@
 "254674240370841_254674850370780"
 ],
 "admob_appopen_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.creditcardvalidator.cardchecker.informationcreditcardfi_OpenApp"
 ],
 "admob_banner_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.creditcardvalidator.cardchecker.informationcreditcardfi_banner"
 ],
 "admob_bottom_native_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.creditcardvalidator.cardchecker.informationcreditcardfi_native"
 ],
 "admob_interstitial_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.creditcardvalidator.cardchecker.informationcreditcardfi_Interstitial"
 ],
 "admob_native_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.creditcardvalidator.cardchecker.informationcreditcardfi_native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
