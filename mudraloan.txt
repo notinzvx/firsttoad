@@ -45,7 +45,7 @@
 "admob_native_btn_text_color": "#ffffff",
 "admob_native_context_text_color": "#000000",
 "analytics": false,
-"coming_soon": true,
+"coming_soon": false,
 "update_coming_soon": false,
 "starting_screen_content_show": 7,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
