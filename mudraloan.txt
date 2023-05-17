@@ -1,0 +1,67 @@
+{
+"facebook_banner_ad_id": [
+""
+],
+"facebook_bottom_native_ad_id": [
+""
+],
+"facebook_interstitial_ad_id": [
+""
+],
+"facebook_native_ad_id": [
+""
+],
+"admob_appopen_ad_id": [
+""
+],
+"admob_banner_ad_id": [
+""
+],
+"admob_bottom_native_ad_id": [
+""
+],
+"admob_interstitial_ad_id": [
+""
+],
+"admob_native_ad_id": [
+""
+],
+"ads_type": "admob",
+"bottom_ads_type": "nativebanner",
+"ads_click": 0,
+"back_click": 0,
+"native_page_wise": 0,
+"bottom_page_wise": 0,
+"one_id_load_thay_hoy_ne": false,
+"is_live": false,
+"gallery_show": true,
+"video_call_show": false,
+"video_player_show": false,
+"downloader_show": false,
+"emergency": false,
+"version_code": "1",
+"version_name": "1",
+"facebook_ads_native_bg_color": "#ffffff",
+"facebook_ads_native_btn_color": "#4286F4",
+"facebook_ads_native_in_txt_color": "#000000",
+"facebook_ads_native_text_color": "#ffffff",
+"admob_native_bg_color": "#E5ECFF",
+"admob_native_btn_color": "#061933",
+"admob_native_btn_text_color": "#ffffff",
+"admob_native_context_text_color": "#000000",
+"analytics": false,
+"coming_soon": false,
+"update_coming_soon": false,
+"starting_screen_content_show": 0,
+"privacy_policy": "https://rksoftwaremedia.blogspot.com/",
+"ads_button_animation": false,
+"Message": "Please Update Our App.",
+"Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
+"ads_animation_type": "zoominout",
+"adapter_ads": false,
+"adapter_ads_page_wise": 0,
+"adapter_ads_type": "nativebanner",
+"app_open_interstitial_show": "false",
+"app_open_interstitial_ads_click": "0",
+"app_open_interstitial_back_click": "0"
+}
