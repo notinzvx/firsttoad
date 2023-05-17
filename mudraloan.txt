@@ -63,5 +63,6 @@
 "adapter_ads_type": "nativebanner",
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
-"app_open_interstitial_back_click": "0"
+"app_open_interstitial_back_click": "0",
+"bottom_ads_page_wise": 0
 }
