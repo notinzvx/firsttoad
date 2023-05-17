@@ -65,5 +65,8 @@
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
 "bottom_ads_page_wise": 0,
-"isredirect": false
+"isredirect": false,
+"quizzo_link": "",
+"quizzo_show": false,
+"quizzo_header_show": false
 }
