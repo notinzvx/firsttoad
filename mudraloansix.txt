@@ -27,7 +27,7 @@
 "admob_native_ad_id": [
 ""
 ],
-"ads_type": "admob",
+"ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
 "ads_click": 0,
 "back_click": 0,
