@@ -1,16 +1,16 @@
 {
 "package" : "com.mudraloadguide.learningfastapproval.mudraloanyojnasi",
 "facebook_banner_ad_id": [
-""
+"1332823620629202_1332824330629131"
 ],
 "facebook_bottom_native_ad_id": [
-""
+"1332823620629202_1332824483962449"
 ],
 "facebook_interstitial_ad_id": [
-""
+"1332823620629202_1332824433962454"
 ],
 "facebook_native_ad_id": [
-""
+"1332823620629202_1332824483962449"
 ],
 "admob_appopen_ad_id": [
 ""
