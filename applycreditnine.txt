@@ -65,5 +65,5 @@
 "quizzo_link": "https://play714.atmequiz.com/start",
 "quizzo_show": false,
 "quizzo_header_show": false,
-"is_showing_or_not_back_ad": false
+"is_showing_or_not_back_ad": true
 }
