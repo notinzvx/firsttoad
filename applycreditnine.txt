@@ -13,19 +13,19 @@
 "1429357491168750_1429361511168348"
 ],
 "admob_appopen_ad_id": [
-""
+"/22191932014/dexstarmudraopen"
 ],
 "admob_banner_ad_id": [
-""
+"/22191932014/dexstarmudrabanner"
 ],
 "admob_bottom_native_ad_id": [
-""
+"/22191932014/dexstarmudranative"
 ],
 "admob_interstitial_ad_id": [
-""
+"/22191932014/dexstarmudrainter"
 ],
 "admob_native_ad_id": [
-""
+"/22191932014/dexstarmudranative"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
