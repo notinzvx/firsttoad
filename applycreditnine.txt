@@ -62,7 +62,7 @@
 "app_open_interstitial_back_click": "0",
 "bottom_ads_page_wise": 0,
 "isredirect": true,
-"quizzo_link": "https://play714.atmequiz.com/start",
+"quizzo_link": "https://426.set.qureka.com/",
 "quizzo_show": true,
 "quizzo_header_show": false,
 "is_showing_or_not_back_ad": false
