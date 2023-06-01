@@ -63,6 +63,6 @@
 "bottom_ads_page_wise": 0,
 "isredirect": false,
 "quizzo_link": "https://play714.atmequiz.com/start",
-"quizzo_show": false,
+"quizzo_show": true,
 "quizzo_header_show": false
 }
