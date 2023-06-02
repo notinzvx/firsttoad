@@ -13,19 +13,19 @@
 "1429357491168750_1429361511168348"
 ],
 "admob_appopen_ad_id": [
-""
+"/22892076798/CC_OnePunch_Open"
 ],
 "admob_banner_ad_id": [
-""
+"/22892076798/CC_OnePunch_Banner"
 ],
 "admob_bottom_native_ad_id": [
-""
+"/22892076798/CC_OnePunch_Native"
 ],
 "admob_interstitial_ad_id": [
-""
+"/22892076798/CC_OnePunch_Inter"
 ],
 "admob_native_ad_id": [
-""
+"/22892076798/CC_OnePunch_Native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
