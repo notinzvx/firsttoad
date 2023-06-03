@@ -27,6 +27,8 @@
     "/6499/example/native"
   ],
   "applovin_interstitial_id" : "ef2feb8eb57f9ece",
+  "applovin_native_id" : "0d2e3269d2b5e1fe",
+  "applovin_banner_id" : "a01999d623206784",
   "ads_type": "applovin",
   "bottom_ads_type": "nativebanner",
   "ads_click": 0,
