@@ -12,24 +12,24 @@
     ""
   ],
   "admob_appopen_ad_id": [
-    ""
+    "/6499/example/app_open_new"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-    ""
+    "/6499/example/native"
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
-    ""
+    "/6499/example/native"
   ],
   "applovin_interstitial_id" : "ef2feb8eb57f9ece",
   "applovin_native_id" : "0d2e3269d2b5e1fe",
   "applovin_banner_id" : "a01999d623206784",
-  "ads_type": "applovin",
+  "ads_type": "admob",
   "bottom_ads_type": "nativebanner",
   "ads_click": 0,
   "back_click": 0,
