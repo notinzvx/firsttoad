@@ -1,0 +1,53 @@
+{
+  "facebook_banner_ad_id": "",
+  "facebook_bottom_native_ad_id": "750105573328963_750113483328172",
+  "facebook_interstitial_ad_id": "750105573328963_750113273328193",
+  "facebook_native_ad_id": "750105573328963_750113363328184",
+  "admob_appopen_ad_id": [
+    "/22892076798/creditopen","/150790500,22875236497/28347_APP_OPEN"
+  ],
+  "admob_banner_ad_id": [
+"/22892076798/Credit_banner","/150790500,22875236497/28347_APP_BANNER_300x250"
+  ],
+  "admob_bottom_native_ad_id": [
+"/22892076798/creditnative","/150790500,22875236497/28347_APP_NATIVE"
+  ],
+  "admob_interstitial_ad_id": [
+"/22892076798/creditinter","/150790500,22875236497/28347_APP_INTER"
+  ],
+  "admob_native_ad_id": [
+"/22892076798/creditnative","/150790500,22875236497/28347_APP_NATIVE"
+  ],
+  "ads_type": "facebook",
+  "bottom_ads_type": "nativebanner",
+  "ads_click": 3,
+  "back_click": 3,
+  "native_page_wise": 4,
+  "reward_ad_type": "admob",
+  "one_id_load_thay_hoy_ne": false,
+  "emergency": false,
+  "version_code": "1",
+  "version_name": "1",
+  "facebook_ads_native_bg_color": "#ffffff",
+  "facebook_ads_native_btn_color": "#4286F4",
+  "facebook_ads_native_in_txt_color": "#000000",
+  "facebook_ads_native_text_color": "#ffffff",
+  "admob_native_bg_color": "#071935",
+  "admob_native_btn_color": "#000000",
+  "admob_native_btn_text_color": "#ffffff",
+  "admob_native_context_text_color": "#ffffff",
+  "analytics": false,
+  "coming_soon": false,
+  "starting_screen_content_show": 5,
+  "privacy_policy": "",
+  "ads_button_animation": false,
+  "Message": "Please Update Our App.",
+  "Update_url":"",
+  "ads_animation_type": "zoominout",
+  "adapter_ads": false,
+  "adapter_ads_page_wise": 0,
+  "adapter_ads_type": "nativebanner",
+  "quizzo_link": "",
+  "quizzo_show": false,
+  "quizzo_header_show": false
+ }
