@@ -12,23 +12,23 @@
     ""
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app_open_new"
+    ""
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    ""
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    ""
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
-  "applovin_interstitial_id" : "ef2feb8eb57f9ece",
-  "applovin_native_id" : "0d2e3269d2b5e1fe",
-  "applovin_banner_id" : "a01999d623206784",
+  "applovin_interstitial_id" : "",
+  "applovin_native_id" : "",
+  "applovin_banner_id" : "",
   "ads_type": "admob",
   "bottom_ads_type": "nativebanner",
   "ads_click": 0,
@@ -48,7 +48,7 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#ffffff",
   "analytics": false,
-  "coming_soon": false,
+  "coming_soon": true,
   "starting_screen_content_show": 5,
   "privacy_policy": "",
   "ads_button_animation": false,
