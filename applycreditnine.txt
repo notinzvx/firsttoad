@@ -13,19 +13,19 @@
 "1429357491168750_1429361511168348"
 ],
 "admob_appopen_ad_id": [
-"/22892076798/CC_OnePunch_Open"
+"/22191932014/Credit_Open_Open"
 ],
 "admob_banner_ad_id": [
-"/22892076798/CC_OnePunch_Banner"
+"/22191932014/Credit_Open_Banner"
 ],
 "admob_bottom_native_ad_id": [
-"/22892076798/CC_OnePunch_Native"
+"/22191932014/Credit_Open_Native"
 ],
 "admob_interstitial_ad_id": [
-"/22892076798/CC_OnePunch_Inter"
+"/22191932014/Credit_Open_Inter"
 ],
 "admob_native_ad_id": [
-"/22892076798/CC_OnePunch_Native"
+"/22191932014/Credit_Open_Native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
