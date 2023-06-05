@@ -4,7 +4,7 @@
   "facebook_interstitial_ad_id": "750105573328963_750113273328193",
   "facebook_native_ad_id": "750105573328963_750113363328184",
   "admob_appopen_ad_id": [
-    "/22191932014/Credit_Open_Open","/150790500,22875236497/28347_APP_OPEN"
+    "","/150790500,22875236497/28347_APP_OPEN"
   ],
   "admob_banner_ad_id": [
 "/22191932014/Credit_Open_Banner","/150790500,22875236497/28347_APP_BANNER_300x250"
