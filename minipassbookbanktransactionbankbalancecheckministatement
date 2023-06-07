@@ -1,0 +1,61 @@
+{
+  "Update_url": "",
+  "adapter_ads": false,
+  "adapter_ads_page_wise": 1,
+  "adapter_ads_type": "nativebanner",
+  "admob_appopen_ad_id": [
+    "/6499/example/app_open_new"
+  ],
+  "admob_banner_ad_id": [
+    "/6499/example/banner"
+  ],
+  "admob_bottom_native_ad_id": [
+    "/6499/example/native"
+  ],
+  "admob_interstitial_ad_id": [
+    "/6499/example/interstitial"
+  ],
+  "admob_native_ad_id": [
+    "/6499/example/native"
+  ],
+  "admob_native_bg_color": "#ffffff",
+  "admob_native_btn_color": "#1F64E5",
+  "admob_native_btn_text_color": "#ffffff",
+  "admob_native_context_text_color": "#000000",
+  "admob_reward_ad_id": "",
+  "ads_animation_type": "zoominout",
+  "ads_button_animation": false,
+  "ads_click": 0,
+  "ads_type": "facebook",
+  "analytics": false,
+  "back_click": 0,
+  "bottom_ads_type": "nativebanner",
+  "bottom_ads_page_wise": 0,
+  "coming_soon": false,
+  "emergency": false,
+  "facebook_ads_native_bg_color": "#ffffff",
+  "facebook_ads_native_btn_color": "#4286F4",
+  "facebook_ads_native_in_txt_color": "#000000",
+  "facebook_ads_native_text_color": "#ffffff",
+  "facebook_banner_ad_id": "YOUR_PLACEMENT_ID",
+  "facebook_bottom_native_ad_id": "YOUR_PLACEMENT_ID",
+  "facebook_interstitial_ad_id": "YOUR_PLACEMENT_ID",
+  "facebook_native_ad_id": "YOUR_PLACEMENT_ID",
+  "more_option": {
+    "app_open_interstitial_ads_click": "2",
+    "app_open_interstitial_back_click": "2",
+    "app_open_interstitial_show": "false",
+    "is_showing_or_not_back_ad": "false"
+  },
+  "native_page_wise": 0,
+  "one_id_load_thay_hoy_ne": false,
+  "privacy_policy": "",
+  "quizzo_header_show": false,
+  "quizzo_link": "",
+  "quizzo_show": false,
+  "reward_ad_type": "admob",
+  "starting_screen_content_show": 5,
+  "unity_ad_id": "",
+  "version_code": "1",
+  "version_name": "1"
+}
