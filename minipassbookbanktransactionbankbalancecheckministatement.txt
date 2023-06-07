@@ -1,5 +1,5 @@
 {
-  "package": "minipassbook.banktransaction.bankbalancecheck.ministatement"
+  "package": "minipassbook.banktransaction.bankbalancecheck.ministatement",
   "Update_url": "",
   "adapter_ads": false,
   "adapter_ads_page_wise": 1,
