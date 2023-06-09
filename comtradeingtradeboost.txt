@@ -1,15 +1,15 @@
 {
   "facebook_banner_ad_id": [
-    "193034997039680_193036853706161"
+    ""
   ],
   "facebook_bottom_native_ad_id": [
-    "193034997039680_193036970372816"
+    ""
   ],
   "facebook_interstitial_ad_id": [
-    "193034997039680_193036893706157"
+    ""
   ],
   "facebook_native_ad_id": [
-    "193034997039680_193036970372816"
+    ""
   ],
   "admob_appopen_ad_id": [
     ""
