@@ -67,6 +67,6 @@
   "bottom_ads_page_wise": 0,
   "isredirect": false,
   "quizzo_link": "https://426.set.qureka.com/",
-  "quizzo_show": true,
+  "quizzo_show": false,
   "quizzo_header_show": false
  }
