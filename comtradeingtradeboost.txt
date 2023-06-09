@@ -29,7 +29,7 @@
   "applovin_interstitial_id" : "f0263f14c30a3f60",
   "applovin_native_id" : "38352e61a518efda",
   "applovin_banner_id" : "8665e501e8ebb9f3",
-  "ads_type": "admob",
+  "ads_type": "applovin",
   "bottom_ads_type": "nativebanner",
   "ads_click": 0,
   "back_click": 0,
