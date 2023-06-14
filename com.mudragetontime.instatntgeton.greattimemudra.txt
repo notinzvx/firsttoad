@@ -1,0 +1,73 @@
+{
+  "facebook_banner_ad_id_list": [
+    ""
+  ],
+  "facebook_bottom_native_ad_id_list": [
+    ""
+  ],
+  "facebook_interstitial_ad_id_list": [
+    ""
+  ],
+  "facebook_native_ad_id_list": [
+    ""
+  ],
+  "admob_appopen_ad_id_list": [
+    ""
+  ],
+  "admob_banner_ad_id_list": [
+    ""
+  ],
+  "admob_bottom_native_ad_id_list": [
+    ""
+  ],
+  "admob_interstitial_ad_id_list": [
+    ""
+  ],
+  "admob_native_ad_id_list": [
+    ""
+  ],
+  "admob_type": "admob",
+  "bottom_admob_type": "nativebanner",
+  "admob_click": 0,
+  "back_click": 0,
+  "native_by_wise": 0,
+  "bottom_page_wise": 0,
+  "one_id_load_thay_hoy_ne": false,
+  "maintance": false,
+  "version_code": 1,
+  "version_name": 1,
+  "adapter_ads": false,
+  "adapter_ads_type": "nativebanner",
+  "ads_button_animation": false,
+  "ads_animation_type": "zoominout",
+  "facebook_ads_native_bg_color": "#ffffff",
+  "facebook_ads_native_btn_color": "#4286F4",
+  "facebook_ads_native_in_txt_color": "#000000",
+  "facebook_ads_native_text_color": "#ffffff",
+  "admob_native_bg_color": "#ffffff",
+  "admob_native_btn_color": "#ffffff",
+  "admob_native_btn_text_color": "#ffffff",
+  "admob_native_context_text_color": "#ffffff",
+  "analytics": false,
+  "coming_soon": true,
+  "update_coming_soon": false,
+  "starting_screen_content_show": 5,
+  "privacy_policy": "",
+  "Message": "",
+  "Update_url": "",
+  "app_open_interstitial_show": false,
+  "app_open_interstitial_ads_click": 0,
+  "app_open_interstitial_back_click": 0,
+  "quizzo_link": "https://426.set.qureka.com/",
+  "quizzo_show": true,
+  "quizzo_header_show": false,
+  "is_redirect": false,
+  "more_option": {
+    "Quiz": "https://426.set.qureka.com/",
+    "QuizTwo": "https://426.set.qureka.com/",
+    "QuizThree": "https://426.set.qureka.com/",
+    "isshowingdirect": "false",
+    "application_id": "0",
+    "is_showing_or_not_back_ad": "false"
+  }
+}
