@@ -13,19 +13,19 @@
 "1429357491168750_1429361511168348"
 ],
 "admob_appopen_ad_id": [
-"/22191932014/Credit_Open_Open"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_OpenApp"
 ],
 "admob_banner_ad_id": [
-"/22191932014/Credit_Open_Banner"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Banner"
 ],
 "admob_bottom_native_ad_id": [
-"/22191932014/Credit_Open_Native"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native"
 ],
 "admob_interstitial_ad_id": [
-"/22191932014/Credit_Open_Inter"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Interstitial"
 ],
 "admob_native_ad_id": [
-"/22191932014/Credit_Open_Native"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
