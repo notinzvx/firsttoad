@@ -39,7 +39,7 @@
   "facebook_ads_native_in_txt_color": "#000000",
   "facebook_ads_native_text_color": "#ffffff",
   "facebook_banner_ad_id": "574157471538817_575876568033574",
-  "facebook_bottom_native_ad_id": "",
+  "facebook_bottom_native_ad_id": "574157471538817_575876704700227",
   "facebook_interstitial_ad_id": "574157471538817_575876611366903",
   "facebook_native_ad_id": "574157471538817_575876704700227",
   "more_option": {
