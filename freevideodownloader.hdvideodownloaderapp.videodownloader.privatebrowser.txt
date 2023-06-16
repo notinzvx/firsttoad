@@ -36,7 +36,10 @@
 "/6499/example/banner"
 ],
 "admob_bottom_native_ad_id": [
-""
+"0",
+"0",
+"0",
+"/6499/example/native"
 ],
 "admob_interstitial_ad_id": [
 "0",
