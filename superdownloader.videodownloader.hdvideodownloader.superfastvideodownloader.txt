@@ -1,0 +1,95 @@
+{
+"facebook_banner_ad_id": [
+""
+],
+"facebook_bottom_native_ad_id": [
+""
+],
+"facebook_interstitial_ad_id": [
+""
+],
+"facebook_native_ad_id": [
+""
+],
+"admob_appopen_ad_id": [
+""
+],
+"admob_banner_ad_id": [
+""
+],
+"admob_bottom_native_ad_id": [
+""
+],
+"admob_interstitial_ad_id": [
+""
+],
+"admob_native_ad_id": [
+""
+],
+"orginic_ads_type": "admob",
+"orginic_bottom_ads_type": "nativebanner",
+"orginic_facebook_page_wise": false,
+"orginic_facebook_native_ads_click": 1,
+"orginic_facebook_native_banner_ads_click": 1,
+"orginic_facebook_interstitial_ads_click": 1,
+"orginic_facebook_interstitial_back_click": 1,
+"orginic_facebook_banner_ads_click": 1,
+"orginic_ads_show_type": "load",
+"orginic_native_banner_show": true,
+"orginic_ads_click": 0,
+"orginic_back_click": 0,
+"orginic_native_page_wise": 0,
+"orginic_bottom_page_wise": 0,
+"orginic_app_open_interstitial_show": "false",
+"orginic_app_open_interstitial_ads_click": "0",
+"orginic_app_open_interstitial_back_click": "0",
+"ads_type": "admob",
+"bottom_ads_type": "nativebanner",
+"facebook_page_wise": false,
+"facebook_native_ads_click": 1,
+"facebook_native_banner_ads_click": 1,
+"facebook_interstitial_ads_click": 1,
+"facebook_interstitial_back_click": 1,
+"facebook_banner_ads_click": 1,
+"ads_show_type": "preload",
+"native_banner_show": true,
+"ads_click": 0,
+"back_click": 0,
+"native_page_wise": 0,
+"bottom_page_wise": 0,
+"app_open_interstitial_show": "false",
+"app_open_interstitial_ads_click": "0",
+"app_open_interstitial_back_click": "0",
+"one_id_load_thay_hoy_ne": true,
+"facebook_back_ads_not_show": false,
+"is_live": true,
+"gallery_show": false,
+"video_call_show": false,
+"video_player_show": false,
+"downloader_show": true,
+"privacy_screen": true,
+"emergency": false,
+"version_code": "1",
+"version_name": "1",
+"facebook_ads_native_bg_color": "#ffffff",
+"facebook_ads_native_btn_color": "#4286F4",
+"facebook_ads_native_in_txt_color": "#000000",
+"facebook_ads_native_text_color": "#ffffff",
+"admob_native_bg_color": "#ffffff",
+"admob_native_btn_color": "#E9800A",
+"admob_native_btn_text_color": "#ffffff",
+"admob_native_context_text_color": "#000000",
+"analytics": false,
+"coming_soon": false,
+"update_coming_soon": false,
+"starting_screen_content_show": 5,
+"privacy_policy": "https://rksoftwaremedia.blogspot.com/",
+"ads_button_animation": false,
+"Message": "Please Update Our App.",
+"Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
+"ads_animation_type": "zoominout",
+"adapter_ads": false,
+"adapter_ads_type": "native",
+"app_certificate": "b162db84a6364e9ea1c65bb3e68157a3",
+"agora_app_id": "18b95c0e05714c71b28490bbda46205c"
+}
