@@ -13,19 +13,24 @@
 "1429357491168750_1429361511168348"
 ],
 "admob_appopen_ad_id": [
-"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_OpenApp"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_OpenApp",
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/open_app"
 ],
 "admob_banner_ad_id": [
-"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Banner"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Banner",
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/banner_320x100_320x50"
 ],
 "admob_bottom_native_ad_id": [
-"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native",
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/native"
 ],
 "admob_interstitial_ad_id": [
-"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Interstitial"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Interstitial",
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/interstitial"
 ],
 "admob_native_ad_id": [
-"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native"
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native",
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
