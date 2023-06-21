@@ -14,7 +14,7 @@
 ],
 "admob_appopen_ad_id": [
 "/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_OpenApp",
-"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidator_Aopen22".
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidator_Aopen22",
 "/21857590943,22897629462/mahimeta_app_credit_virtual_card/open_app"
 ],
 "admob_banner_ad_id": [
