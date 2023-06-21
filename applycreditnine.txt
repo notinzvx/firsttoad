@@ -1,16 +1,16 @@
 {
 "package" : "com.applycreditcard.freecreditcard.creditcardvalidatorni",
 "facebook_banner_ad_id": [
-"1429357491168750_1429361401168359"
+""
 ],
 "facebook_bottom_native_ad_id": [
-"1429357491168750_1429361511168348"
+""
 ],
 "facebook_interstitial_ad_id": [
-"1429357491168750_1429361447835021"
+""
 ],
 "facebook_native_ad_id": [
-"1429357491168750_1429361511168348"
+""
 ],
 "admob_appopen_ad_id": [
 "/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_OpenApp",
@@ -34,7 +34,7 @@
 "/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native",
 "/21857590943,22897629462/mahimeta_app_credit_virtual_card/native"
 ],
-"ads_type": "facebook",
+"ads_type": "admob",
 "bottom_ads_type": "nativebanner",
 "ads_click": 0,
 "back_click": 0,
