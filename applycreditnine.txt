@@ -14,11 +14,13 @@
 ],
 "admob_appopen_ad_id": [
 "/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_OpenApp",
-"/21857590943,22897629462/mahimeta_app_credit_virtual_card/open_app"
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/open_app",
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidator_Aopen22"
 ],
 "admob_banner_ad_id": [
 "/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Banner",
-"/21857590943,22897629462/mahimeta_app_credit_virtual_card/banner_320x100_320x50"
+"/21857590943,22897629462/mahimeta_app_credit_virtual_card/banner_320x100_320x50",
+"/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidator_Banner22"
 ],
 "admob_bottom_native_ad_id": [
 "/22798352804,22805009155/HPEE_com.applycreditcard.freecreditcard.creditcardvalidatorni_Native",
