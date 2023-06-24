@@ -5,19 +5,19 @@
   "adapter_ads_page_wise": 1,
   "adapter_ads_type": "nativebanner",
   "admob_appopen_ad_id": [
-    ""
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_OpenApp"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    ""
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Native"
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Interstitial"
   ],
   "admob_native_ad_id": [
-    ""
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Native"
   ],
   "admob_native_bg_color": "#ffffff",
   "admob_native_btn_color": "#1F64E5",
@@ -27,7 +27,7 @@
   "ads_animation_type": "zoominout",
   "ads_button_animation": false,
   "ads_click": 0,
-  "ads_type": "facebook",
+  "ads_type": "admob",
   "analytics": false,
   "back_click": 0,
   "bottom_ads_type": "nativebanner",
