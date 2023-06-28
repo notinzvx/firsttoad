@@ -1,31 +1,31 @@
 {
 "package": "btcmining.bitcoinminer.cryptocloud.bitetheriumcoin",
 "facebook_banner_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_bottom_native_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_interstitial_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_native_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "admob_appopen_ad_id": [
-"/6499/example/app_open_new"
+""
 ],
 "admob_banner_ad_id": [
-"/6499/example/banner"
+""
 ],
 "admob_bottom_native_ad_id": [
-"/6499/example/native"
+""
 ],
 "admob_interstitial_ad_id": [
-"/6499/example/interstitial"
+""
 ],
 "admob_native_ad_id": [
-"/6499/example/native"
+""
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
@@ -46,7 +46,7 @@
 "admob_native_btn_text_color": "#ffffff",
 "admob_native_context_text_color": "#000000",
 "analytics": false,
-"coming_soon": false,
+"coming_soon": true,
 "update_coming_soon": false,
 "starting_screen_content_show": 5,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
