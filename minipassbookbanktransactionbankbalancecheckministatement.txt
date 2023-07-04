@@ -32,7 +32,7 @@
   "ads_animation_type": "zoominout",
   "ads_button_animation": false,
   "ads_click": 0,
-  "ads_type": "admob",
+  "ads_type": "facebook",
   "analytics": false,
   "back_click": 0,
   "bottom_ads_type": "nativebanner",
