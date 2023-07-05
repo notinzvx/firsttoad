@@ -4,13 +4,15 @@
 "facebook_interstitial_ad_id": "",
 "facebook_native_ad_id": "",
 "facebook_banner_ad_id1": [
-""
+"254674240370841_254674773704121"
 ],
 "facebook_bottom_native_ad_id1": [
-""
+"254674240370841_254674850370780"
 ],
 "facebook_interstitial_ad_id1": [
-""
+"254674240370841_261313836373548",
+"254674240370841_261313779706887",
+"254674240370841_254674820370783"
 ],
 "facebook_native_ad_id1": [
 "254674240370841_254674850370780"
@@ -40,7 +42,7 @@
 "/22892076798/Credit_Manager_Native",
 "/22798352804,22805009155/HPEE_com.creditcardvalidator.cardchecker.informationcreditcardfi_native"
 ],
-"ads_type": "admob",
+"ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
 "ads_click": 0,
 "back_click": 0,
