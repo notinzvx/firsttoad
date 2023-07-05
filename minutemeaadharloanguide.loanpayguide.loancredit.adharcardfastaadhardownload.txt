@@ -1,31 +1,55 @@
 {
 "package" : "minutemeaadharloanguide.loanpayguide.loancredit.adharcardfastaadhardownload",
 "facebook_banner_ad_id": [
-"YOUR_PLACEMENT_ID"
+      "0",
+      "0",
+      "YOUR_PLACEMENT_ID"
 ],
 "facebook_bottom_native_ad_id": [
-"YOUR_PLACEMENT_ID"
+      "0",
+      "0",
+      "YOUR_PLACEMENT_ID"
 ],
 "facebook_interstitial_ad_id": [
-"YOUR_PLACEMENT_ID"
+      "0",
+      "0",
+      "YOUR_PLACEMENT_ID"
 ],
 "facebook_native_ad_id": [
-"YOUR_PLACEMENT_ID"
+      "0",
+      "0",
+      "0",
+      "YOUR_PLACEMENT_ID"
 ],
 "admob_appopen_ad_id": [
-"/6499/example/app_open_new"
+      "0",
+      "0",
+      "/6499/example/app_open_new",
+      "0"
 ],
 "admob_banner_ad_id": [
-"/6499/example/banner"
+    "0",
+    "0",
+    "/6499/example/banner",
+    "0"
 ],
 "admob_bottom_native_ad_id": [
-"/6499/example/native"
+    "0",
+    "0",
+    "/6499/example/native",
+    "0"
 ],
 "admob_interstitial_ad_id": [
-"/6499/example/interstitial"
+    "0",
+    "0",
+    "/6499/example/interstitial",
+    "0"
 ],
 "admob_native_ad_id": [
-"/6499/example/native"
+    "0",
+    "0",
+    "/6499/example/native",
+    "0"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
@@ -63,6 +87,7 @@
 "bottom_ads_page_wise": 0,
 "isredirect": true,
 "quizzo_link": "https://426.set.qureka.com/",
+"aek_pachi_aek_id": true,
 "quizzo_show": true,
 "quizzo_header_show": false
 }
