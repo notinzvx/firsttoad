@@ -44,7 +44,7 @@
 "orginic_facebook_interstitial_ads_click": 1,
 "orginic_facebook_interstitial_back_click": 1,
 "orginic_facebook_banner_ads_click": 1,
-"orginic_ads_show_type": "preload",
+"orginic_ads_show_type": "load",
 "orginic_native_banner_show": true,
 "orginic_ads_click": 0,
 "orginic_back_click": 0,
