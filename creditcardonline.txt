@@ -23,7 +23,7 @@
 "/22892076798/Credit_Debit_Open"
 ],
 "admob_banner_ad_id": [
-"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_banner"
+"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_banner",
 "/22941947706/CreditDebit_Globle_Banner",
 "/22892076798/Credit_Debit_Banner"
 ],
