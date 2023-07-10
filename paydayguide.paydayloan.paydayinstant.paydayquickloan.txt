@@ -1,40 +1,31 @@
 {
 "package" : "paydayguide.paydayloan.paydayinstant.paydayquickloan",
 "facebook_banner_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      ""
 ],
 "facebook_bottom_native_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      ""
 ],
 "facebook_interstitial_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      ""
 ],
 "facebook_native_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      ""
 ],
 "admob_appopen_ad_id": [
-      "0",
-      "/6499/example/app_open_new"
+      ""
 ],
 "admob_banner_ad_id": [
-    "0",
-    "/6499/example/banner"
+    ""
 ],
 "admob_bottom_native_ad_id": [
-    "0",
-    "/6499/example/native"
+    ""
 ],
 "admob_interstitial_ad_id": [
-    "0",
-    "/6499/example/interstitial"
+    ""
 ],
 "admob_native_ad_id": [
-    "0",
-    "/6499/example/native"
+    ""
 ],
 "orginic_ads_type": "admob",
 "orginic_bottom_ads_type": "nativebanner",
@@ -70,7 +61,7 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": false,
+"ads_free": true,
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
@@ -91,7 +82,7 @@
 "admob_native_btn_text_color": "#ffffff",
 "admob_native_context_text_color": "#000000",
 "analytics": false,
-"coming_soon": false,
+"coming_soon": true,
 "update_coming_soon": false,
 "starting_screen_content_show": 5,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
