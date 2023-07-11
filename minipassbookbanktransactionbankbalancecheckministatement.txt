@@ -56,7 +56,8 @@
     "app_open_interstitial_ads_click": "2",
     "app_open_interstitial_back_click": "2",
     "app_open_interstitial_show": "false",
-    "is_showing_or_not_back_ad": "false"
+    "is_showing_or_not_back_ad": "false",
+    "isredirect": "true"
   },
   "native_page_wise": 0,
   "one_id_load_thay_hoy_ne": false,
