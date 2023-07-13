@@ -60,7 +60,7 @@
     "isredirect": "true"
   },
   "native_page_wise": 0,
-  "one_id_load_thay_hoy_ne": false,
+  "one_id_load_thay_hoy_ne": true,
   "privacy_policy": "",
   "quizzo_header_show": false,
   "quizzo_link": "https://play771.atmequiz.com",
