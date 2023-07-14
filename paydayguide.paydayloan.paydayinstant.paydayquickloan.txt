@@ -13,19 +13,19 @@
       ""
 ],
 "admob_appopen_ad_id": [
-      ""
+      "/22941947706/Payday_Gameric_Open"
 ],
 "admob_banner_ad_id": [
-    ""
+    "/22941947706/Payday_Gameric_Banner"
 ],
 "admob_bottom_native_ad_id": [
-    ""
+    "/22941947706/Payday_Gameric_Native"
 ],
 "admob_interstitial_ad_id": [
-    ""
+    "/22941947706/Payday_Gameric_Inter"
 ],
 "admob_native_ad_id": [
-    ""
+    "/22941947706/Payday_Gameric_Native"
 ],
 "orginic_ads_type": "admob",
 "orginic_bottom_ads_type": "nativebanner",
