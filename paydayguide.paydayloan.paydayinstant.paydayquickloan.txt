@@ -1,16 +1,20 @@
 {
 "package" : "paydayguide.paydayloan.paydayinstant.paydayquickloan",
 "facebook_banner_ad_id": [
-      ""
+      "929958874773484_929966878106017",
+      "929958874773484_929966838106021"
 ],
 "facebook_bottom_native_ad_id": [
-      ""
+      "929958874773484_929967034772668",
+      "929958874773484_929967011439337"
 ],
 "facebook_interstitial_ad_id": [
-      ""
+      "929958874773484_929966981439340",
+      "929958874773484_929966928106012"
 ],
 "facebook_native_ad_id": [
-      ""
+      "929958874773484_929967034772668",
+      "929958874773484_929967011439337"
 ],
 "admob_appopen_ad_id": [
       "/22941947706/Payday_Gameric_Open"
@@ -27,7 +31,7 @@
 "admob_native_ad_id": [
     "/22941947706/Payday_Gameric_Native"
 ],
-"orginic_ads_type": "admob",
+"orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
 "orginic_facebook_page_wise": false,
 "orginic_facebook_native_ads_click": 1,
@@ -44,7 +48,7 @@
 "orginic_app_open_interstitial_show": "false",
 "orginic_app_open_interstitial_ads_click": "0",
 "orginic_app_open_interstitial_back_click": "0",
-"ads_type": "admob",
+"ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
 "facebook_page_wise": false,
 "facebook_native_ads_click": 1,
