@@ -5,27 +5,27 @@
   "adapter_ads_page_wise": 1,
   "adapter_ads_type": "nativebanner",
   "admob_appopen_ad_id": [
-    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_OpenApp",
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Aopen2",
     "/22941947706/Balance_Modx_Open_blue",
     "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/open_app"
   ],
   "admob_banner_ad_id": [
-    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Banner",
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_bannerv2",
     "/22941947706/Balance_Modx_banner_blue",
     "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/banner_300x250"
   ],
   "admob_bottom_native_ad_id": [
-     "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Native",
+     "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_native2",
      "/22941947706/Balance_Modx_Nativ_blue",
      "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/native"
   ],
   "admob_interstitial_ad_id": [
-    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Interstitial",
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_inter2",
     "/22941947706/Balance_Modx_Inter_blue",
     "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/interstitial"
   ],
   "admob_native_ad_id": [
-    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_Native",
+    "/22798352804,22805009155/HPEE_minipassbook.banktransaction.bankbalancecheck.ministatement_native2",
     "/22941947706/Balance_Modx_Nativ_blue",
     "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/native"
   ],
