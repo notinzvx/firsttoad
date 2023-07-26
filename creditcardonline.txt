@@ -18,29 +18,19 @@
 "617901200384504_617902000384424"
 ],
 "admob_appopen_ad_id": [
-"/22941947706/CreditDebit_Globle_Open",
-"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_OpenApp",
-"/22892076798/Credit_Debit_Open"
+"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_OpenApp"
 ],
 "admob_banner_ad_id": [
-"/22941947706/CreditDebit_Globle_Banner",
-"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_banner",
-"/22892076798/Credit_Debit_Banner"
+"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_banner"
 ],
 "admob_bottom_native_ad_id": [
-"/22941947706/CreditDebit_Globle_Native",
-"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_native",
-"22892076798/Credit_Debit_Native"
+"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_native"
 ],
 "admob_interstitial_ad_id": [
-"/22941947706/CreditDebit_Globle_Inter",
-"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_Interstitial",
-"/22892076798/Credit_Debit_Inter"
+"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_Interstitial"
 ],
 "admob_native_ad_id": [
-"/22941947706/CreditDebit_Globle_Native",
-"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_native",
-"22892076798/Credit_Debit_Native"
+"/22798352804,22805009155/HPEE_com.applycreditcard.cardvalidates.applyonlinefo_native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
