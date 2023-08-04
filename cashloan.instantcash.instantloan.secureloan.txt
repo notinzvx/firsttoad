@@ -21,7 +21,7 @@
   "app_open_interstitial_ads_click": "0",
   "app_open_interstitial_back_click": "0",
   "facebook_banner_ad_id_list": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "more_option": {
     "Quiz": "https://play714.atmequiz.com/start",
@@ -30,28 +30,28 @@
     "is_showing_or_not_back_ad": "false"
   },
   "facebook_bottom_native_ad_id_list": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_interstitial_ad_id_list": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_native_ad_id_list": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "admob_appopen_ad_id_list": [
-    "/6499/example/app_open_new"
+    ""
   ],
   "admob_banner_ad_id_list": [
-    "/6499/example/banner"
+    ""
   ],
   "admob_bottom_native_ad_id_list": [
-    "/6499/example/native"
+    ""
   ],
   "admob_interstitial_ad_id_list": [
-    "/6499/example/interstitial"
+    ""
   ],
   "admob_native_ad_id_list": [
-    "/6499/example/native"
+    ""
   ],
   "admob_type": "facebook",
   "bottom_admob_type": "nativebanner",
