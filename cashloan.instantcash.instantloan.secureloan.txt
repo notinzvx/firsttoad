@@ -53,7 +53,7 @@
   "admob_native_ad_id_list": [
     "/6499/example/native"
   ],
-  "admob_type": "admob",
+  "admob_type": "facebook",
   "bottom_admob_type": "nativebanner",
   "admob_click": 0,
   "bottom_page_wise": 0,
