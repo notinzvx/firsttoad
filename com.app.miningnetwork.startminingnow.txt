@@ -1,20 +1,20 @@
 {
 "package" : "com.app.miningnetwork.startminingnow",
 "facebook_banner_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      "632913055284583_632913815284507",
+      "632913055284583_634715808437641"
 ],
 "facebook_bottom_native_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      "632913055284583_632913968617825",
+      "632913055284583_634715881770967"
 ],
 "facebook_interstitial_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      "632913055284583_632913885284500",
+      "632913055284583_634715728437649"
 ],
 "facebook_native_ad_id": [
-      "0",
-      "YOUR_PLACEMENT_ID"
+      "632913055284583_632913968617825",
+      "632913055284583_634715881770967"
 ],
 "admob_appopen_ad_id": [
       "/6499/example/app_open_new"
@@ -65,7 +65,7 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": true,
+"ads_free": false,
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com/start",
