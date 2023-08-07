@@ -1,16 +1,16 @@
 {
   "package": "ministatement.allbankbalanceinquiry.balancechecker.bankbalancecheck",
   "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "665554642132144_665555712132037"
   ],
   "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "665554642132144_665555858798689"
   ],
   "facebook_interstitial_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "665554642132144_665555795465362"
   ],
   "facebook_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "665554642132144_665555858798689"
   ],
   "admob_appopen_ad_id": [
     "/6499/example/app_open_new"
@@ -81,7 +81,7 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#ffffff",
   "analytics": false,
-  "ads_free": true,
+  "ads_free": false,
   "coming_soon": false,
   "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
