@@ -13,19 +13,19 @@
     "665554642132144_665555858798689"
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app_open_new"
+    ""
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    ""
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    ""
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
