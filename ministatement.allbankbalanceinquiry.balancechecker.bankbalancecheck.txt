@@ -13,19 +13,19 @@
     "665554642132144_665555858798689"
   ],
   "admob_appopen_ad_id": [
-    ""
+    "/22941947706/Bank_Sun_Open"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/22941947706/Bank_Sun_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    ""
+    "/22941947706/Bank_Sun_Native"
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/22941947706/Bank_Sun_Inter"
   ],
   "admob_native_ad_id": [
-    ""
+    "/22941947706/Bank_Sun_Native"
   ],
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
