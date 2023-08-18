@@ -1,0 +1,103 @@
+{
+  "pacakage": "com.epfopassbookseva.pfbalancechek.epfobalanceinquiry",
+  "facebook_banner_ad_id": [
+    "806983300884261_806985130884078"
+  ],
+  "facebook_bottom_native_ad_id": [
+    "806983300884261_806985207550737"
+  ],
+  "facebook_interstitial_ad_id": [
+    "806983300884261_806985174217407"
+  ],
+  "facebook_native_ad_id": [
+    "806983300884261_806985207550737"
+  ],
+  "admob_appopen_ad_id": [
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/APP_OPEN",
+    "/22798352804,22854404648/CW_com.epfopassbook_OpenApp"
+  ],
+  "admob_banner_ad_id": [
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/BANNER",
+    "/22798352804,22854404648/CW_com.epfopassbook_Banner"
+  ],
+  "admob_bottom_native_ad_id": [
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
+    "/22798352804,22854404648/CW_com.epfopassbook_Native"
+  ],
+  "admob_interstitial_ad_id": [
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/INTERSTITIAL",
+    "/22798352804,22854404648/CW_com.epfopassbook_Interstitial"
+  ],
+  "admob_native_ad_id": [
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
+    "/22798352804,22854404648/CW_com.epfopassbook_Native"
+  ],
+  "orginic_ads_type": "admob",
+  "orginic_bottom_ads_type": "nativebanner",
+  "orginic_facebook_page_wise": false,
+  "orginic_facebook_native_ads_click": 1,
+  "orginic_facebook_native_banner_ads_click": 1,
+  "orginic_facebook_interstitial_ads_click": 1,
+  "orginic_facebook_interstitial_back_click": 1,
+  "orginic_facebook_banner_ads_click": 1,
+  "orginic_ads_show_type": "load",
+  "orginic_native_banner_show": true,
+  "orginic_ads_click": 1,
+  "orginic_back_click": 2,
+  "orginic_native_page_wise": 1,
+  "orginic_bottom_page_wise": 0,
+  "orginic_app_open_interstitial_show": "false",
+  "orginic_app_open_interstitial_ads_click": "0",
+  "orginic_app_open_interstitial_back_click": "0",
+  "ads_type": "admob",
+  "bottom_ads_type": "nativebanner",
+  "facebook_page_wise": false,
+  "facebook_native_ads_click": 1,
+  "facebook_native_banner_ads_click": 1,
+  "facebook_interstitial_ads_click": 1,
+  "facebook_interstitial_back_click": 1,
+  "facebook_banner_ads_click": 1,
+  "ads_show_type": "load",
+  "native_banner_show": true,
+  "ads_click": 0,
+  "back_click": 0,
+  "native_page_wise": 0,
+  "bottom_page_wise": 0,
+  "app_open_interstitial_show": "false",
+  "app_open_interstitial_ads_click": "0",
+  "app_open_interstitial_back_click": "0",
+  "one_id_load_thay_hoy_ne": true,
+  "facebook_back_ads_not_show": false, 
+  "emergency": false,
+  "version_code": "1",
+  "version_name": "1",
+  "facebook_ads_native_bg_color": "#ffffff",
+  "facebook_ads_native_btn_color": "#4286F4",
+  "facebook_ads_native_in_txt_color": "#000000",
+  "facebook_ads_native_text_color": "#ffffff",
+  "admob_native_bg_color": "#ffffff",
+  "admob_native_btn_color": "#E9800A",
+  "admob_native_btn_text_color": "#ffffff",
+  "admob_native_context_text_color": "#000000",
+  "analytics": false,
+  "ads_free": false,
+  "coming_soon": false,
+  "update_coming_soon": false,
+  "ads_failed_load_hoy_ne": false,
+  "starting_screen_content_show": 1,
+  "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
+  "ads_button_animation": false,
+  "Message": "Please Update Our App.",
+  "quizzo_link": "https://play776.atmequiz.com/start",
+  "quizzo_show": true,
+  "quizzo_header_show": false,
+  "redirect": false,
+  "quiz_show_after_inter": false,
+  "organic_redirect": true,
+  "organic_quiz_show_after_inter": true,
+  "organic_starting_screen_content_show": 5,
+  "Update_url": "",
+  "ads_animation_type": "zoominout",
+  "adapter_ads": true,
+  "adapter_ads_type": "native"
+}
