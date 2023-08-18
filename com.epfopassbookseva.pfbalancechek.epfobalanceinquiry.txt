@@ -32,7 +32,7 @@
     "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
     "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
-  "hello_how": true,
+  "hello_how": false,
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
   "orginic_facebook_page_wise": false,
