@@ -79,7 +79,7 @@
   "admob_native_context_text_color": "#000000",
   "analytics": false,
   "application_id": "dsfsf",
-  "ads_free": false,
+  "ads_free": true,
   "ads_failed_load_hoy_ne": false,
   "starting_screen_content_show": 5,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
