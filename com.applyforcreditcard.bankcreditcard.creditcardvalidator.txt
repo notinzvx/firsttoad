@@ -1,5 +1,5 @@
 {
-  "package": "saverwhatsapptool.statussaver.latestversion.gblatesttool",
+  "package": "com.applyforcreditcard.bankcreditcard.creditcardvalidator",
   "facebook_banner_ad_id": [
     "YOUR_PLACEMENT_ID"
   ],
