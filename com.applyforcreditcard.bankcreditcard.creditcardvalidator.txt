@@ -81,7 +81,7 @@
   "application_id": "dsfsf",
   "ads_free": false,
   "ads_failed_load_hoy_ne": false,
-  "starting_screen_content_show": 1,
+  "starting_screen_content_show": 5,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
