@@ -13,23 +13,18 @@
     "665554642132144_665555858798689"
   ],
   "admob_appopen_ad_id": [
-    "/22941947706/Bank_Sun_Open",
     "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/AopSM"
   ],
   "admob_banner_ad_id": [
-    "/22941947706/Bank_Sun_Banner",
     "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/BannerSM"
   ],
   "admob_bottom_native_ad_id": [
-    "/22941947706/Bank_Sun_Native",
     "/22798352804,22805009155/ca-pub-3068255257089060-tag/NativeSM"
   ],
   "admob_interstitial_ad_id": [
-    "/22941947706/Bank_Sun_Inter",
     "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/InterSM"
   ],
   "admob_native_ad_id": [
-    "/22941947706/Bank_Sun_Native",
     "/22798352804,22805009155/ca-pub-3068255257089060-tag/NativeSM"
   ],
   "orginic_ads_type": "facebook",
