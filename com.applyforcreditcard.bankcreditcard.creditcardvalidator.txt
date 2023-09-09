@@ -13,16 +13,16 @@
     "1007933273562148_1007934893561986"
   ],
   "admob_appopen_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Open_Credit_Card"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Banner"
   ],
   "admob_bottom_native_ad_id": [
     ""
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Inter_Credit"
   ],
   "admob_native_ad_id": [
     ""
