@@ -25,7 +25,7 @@
     ""
 ],
 "admob_native_ad_id": [
-    "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/Nat9283"
+    ""
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
@@ -61,7 +61,7 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": true,
+"ads_free": false,
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com/start",
