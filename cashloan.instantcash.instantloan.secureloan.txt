@@ -24,7 +24,7 @@
     ""
   ],
   "more_option": {
-    "Quiz": "https://play714.atmequiz.com/start",
+    "Quiz": "https://play771.atmequiz.com/start",
     "isshowingdirect": "false",
     "application_id": "qwer",
     "is_showing_or_not_back_ad": "false"
