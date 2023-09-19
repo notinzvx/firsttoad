@@ -68,7 +68,7 @@
   "quizzo_show": true,
   "quizzo_header_show": false,
   "redirect": true,
-  "quiz_show_after_inter": true,
+  "quiz_show_after_inter": false,
   "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
   "ads_animation_type": "zoominout",
   "adapter_ads": true,
