@@ -54,7 +54,7 @@
   "facebook_ads_native_in_txt_color": "#000000",
   "facebook_ads_native_text_color": "#ffffff",
   "admob_native_bg_color": "#2F2F31",
-  "admob_native_btn_color": "#935FE7",
+  "admob_native_btn_color": "#41296E",
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#ffffff",
   "analytics": false,
