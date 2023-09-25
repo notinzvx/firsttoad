@@ -1,31 +1,31 @@
 {
   "package": "wonlineplay.playandwin.playgamesforoffline.wgames",
   "facebook_banner_ad_id": [
-    ""
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_bottom_native_ad_id": [
-    ""
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_interstitial_ad_id": [
-    ""
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_native_ad_id": [
-    ""
+    "YOUR_PLACEMENT_ID"
   ],
   "admob_appopen_ad_id": [
-    ""
+    "/6499/example/app_open_new"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-    ""
+    "/6499/example/native"
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
-    ""
+    "/6499/example/native"
   ],
   "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
