@@ -80,7 +80,7 @@
   "admob_native_btn_color": "#4634FD",
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#ffffff",
-  "analytics": false,
+  "analytics": true,
   "ads_free": false,
   "coming_soon": false,
   "update_coming_soon": false,
