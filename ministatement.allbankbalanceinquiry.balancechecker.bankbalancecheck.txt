@@ -92,7 +92,7 @@
   "quizzo_link": "https://play771.atmequiz.com/start",
   "quizzo_show": true,
   "quizzo_header_show": false,
-  "redirect": false,
+  "redirect": true,
   "quiz_show_after_inter": false,
   "organic_redirect": true,
   "organic_quiz_show_after_inter": true,
