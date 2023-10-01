@@ -1,0 +1,57 @@
+{
+  "package": "com.applyforcreditcard.bankcreditcard.creditcardvalidator",
+  "facebook_banner_ad_id": [
+    "YOUR_PLACEMENT_ID"
+  ],
+  "facebook_bottom_native_ad_id": [
+    "YOUR_PLACEMENT_ID"
+  ],
+  "facebook_interstitial_ad_id": [
+    "YOUR_PLACEMENT_ID"
+  ],
+  "facebook_native_ad_id": [
+    "YOUR_PLACEMENT_ID"
+  ],
+  "admob_appopen_ad_id": [
+    "/6499/example/app_open_new"
+  ],
+  "admob_banner_ad_id": [
+    "/6499/example/banner"
+  ],
+  "admob_bottom_native_ad_id": [
+    "/6499/example/native"
+  ],
+  "admob_interstitial_ad_id": [
+    "/6499/example/interstital"
+  ],
+  "admob_native_ad_id": [
+    "/6499/example/native"
+  ],
+  "ads_type": "facebook",
+  "bottom_ads_type": "nativebanner",
+  "ads_show_type": "preload",
+  "native_banner_show": true,
+  "ads_click": 1,
+  "back_click": 1,
+  "native_page_wise": 0,
+  "bottom_page_wise": 0,
+  "ads_type": "facebook",
+  "bottom_ads_type": "nativebanner",
+  "ads_show_type": "preload",
+  "native_banner_show": true,
+  "ads_click": 1,
+  "back_click": 1,
+  "native_page_wise": 0,
+  "bottom_page_wise": 0,
+  "one_id_load_thay_hoy_ne": false,
+  "facebook_back_ads_not_show": false,
+  "ads_free": false,
+  "ads_failed_load_hoy_ne": false,
+  "starting_screen_content_show": 5,
+  "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
+  "quizzo_link": "https://play771.atmequiz.com/start",
+  "quizzo_show": true,
+  "quizzo_header_show": false,
+  "redirect": false,
+  "quiz_show_after_inter": false
+}
