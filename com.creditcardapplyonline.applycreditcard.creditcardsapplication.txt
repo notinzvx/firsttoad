@@ -13,19 +13,19 @@
     "229964783393129_230053130050961"
   ],
   "admob_appopen_ad_id": [
-    ""
+    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_AppOpen"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    ""
+    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Native "
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Interstitial"
   ],
   "admob_native_ad_id": [
-    ""
+    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Native"
   ],
   "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
