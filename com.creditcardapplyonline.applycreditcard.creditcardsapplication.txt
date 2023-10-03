@@ -1,16 +1,16 @@
 {
   "package": "com.creditcardapplyonline.applycreditcard.creditcardsapplication",
   "facebook_banner_ad_id": [
-    ""
+    "229964783393129_230053000050974"
   ],
   "facebook_bottom_native_ad_id": [
-    ""
+    "229964783393129_230053130050961"
   ],
   "facebook_interstitial_ad_id": [
-    ""
+    "229964783393129_230053086717632"
   ],
   "facebook_native_ad_id": [
-    ""
+    "229964783393129_230053130050961"
   ],
   "admob_appopen_ad_id": [
     ""
@@ -60,7 +60,7 @@
   "analytics": false,
   "ads_free": true,
   "ads_failed_load_hoy_ne": false,
-  "starting_screen_content_show": 0,
+  "starting_screen_content_show": 5,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
