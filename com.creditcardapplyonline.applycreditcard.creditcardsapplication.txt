@@ -19,7 +19,7 @@
     "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Native "
+    "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Native"
   ],
   "admob_interstitial_ad_id": [
     "/21753324030,22878715650/com.creditcardapplyonline.applycreditcard.creditcardsapplication_Interstitial"
