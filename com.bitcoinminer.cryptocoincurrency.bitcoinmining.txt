@@ -8,7 +8,7 @@
     "native_ads_click": 0,
     "banner_ads_click": 0,
     "quiz_show_after_inter": false,
-    "quizzo_link"; "",
+    "quizzo_link": "",
     "redirect": false,
     "quizzo_show": false,
     "quizzo_header_show": false,
