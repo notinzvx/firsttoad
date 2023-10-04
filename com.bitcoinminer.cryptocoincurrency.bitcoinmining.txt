@@ -17,5 +17,6 @@
     "ads_click": 0,
     "back_click": 0,
     "ads_type": "facebook",
-    "ads_show_type": "load"
+    "ads_show_type": "load",
+    "app_key": "kmM0fATA7U" 
 }
