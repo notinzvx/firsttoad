@@ -1,0 +1,21 @@
+{
+    "package": "com.bitcoinminer.cryptocoincurrency.bitcoinmining",
+    "facebook_native_ad_type": "native",
+    "facebook_banner_size": 320,
+    "yodo_banner_size": "banner",
+    "facebook_native_ad_id": "YOUR_PLACEMENT_ID",
+    "facebook_Banner_ad_id": "YOUR_PLACEMENT_ID",
+    "native_ads_click": 0,
+    "banner_ads_click": 0,
+    "quiz_show_after_inter": false,
+    "quizzo_link"; "",
+    "redirect": false,
+    "quizzo_show": false,
+    "quizzo_header_show": false,
+    "fb_interstitial_id": "YOUR_PLACEMENT_ID",
+    "ads_free": true,
+    "ads_click": 0,
+    "back_click": 0,
+    "ads_type": "facebook",
+    "ads_show_type": "load"
+}
