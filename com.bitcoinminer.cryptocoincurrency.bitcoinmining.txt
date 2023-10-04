@@ -13,10 +13,10 @@
     "quizzo_show": false,
     "quizzo_header_show": false,
     "fb_interstitial_id": "YOUR_PLACEMENT_ID",
-    "ads_free": true,
+    "ads_free": false,
     "ads_click": 0,
     "back_click": 0,
-    "ads_type": "facebook",
+    "ads_type": "yodo",
     "ads_show_type": "load",
     "app_key": "kmM0fATA7U"
 }
