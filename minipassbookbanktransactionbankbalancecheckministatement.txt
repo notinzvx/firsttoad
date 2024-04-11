@@ -56,7 +56,7 @@
   "quizzo_link": "https://play2298.atmequiz.com/start",
   "quizzo_show": false,
   "reward_ad_type": "admob",
-  "starting_screen_content_show": 5,
+  "starting_screen_content_show": 1,
   "unity_ad_id": "",
   "version_code": "1",
   "version_name": "1"
