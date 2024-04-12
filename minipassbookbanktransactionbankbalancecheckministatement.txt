@@ -1,23 +1,23 @@
 {
   "package": "minipassbook.banktransaction.bankbalancecheck.ministatement",
   "Update_url": "",
-  "adapter_ads": false,
+  "adapter_ads": true,
   "adapter_ads_page_wise": 1,
   "adapter_ads_type": "nativebanner",
   "admob_appopen_ad_id": [
-    "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/open_app"
+    "/21952429235,23103507081/xyzmarketing007/be_minipassbook.banktransaction.bankbalancecheck.ministatement_open_ad"
   ],
   "admob_banner_ad_id": [
-    "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/banner_300x250"
+    "/21952429235,23103507081/xyzmarketing007/be_minipassbook.banktransaction.bankbalancecheck.ministatement_banner_ad"
   ],
   "admob_bottom_native_ad_id": [
-     "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/native"
+     "/21952429235,23103507081/xyzmarketing007/be_minipassbook.banktransaction.bankbalancecheck.ministatement_native"
   ],
   "admob_interstitial_ad_id": [
-    "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/interstitial"
+    "/21952429235,23103507081/xyzmarketing007/be_minipassbook.banktransaction.bankbalancecheck.ministatement_interstitial"
   ],
   "admob_native_ad_id": [
-    "/21857590943,22897629462/mahimeta_app_bankbalancecheck_ministatement/native"
+    "/21952429235,23103507081/xyzmarketing007/be_minipassbook.banktransaction.bankbalancecheck.ministatement_native"
   ],
   "admob_native_bg_color": "#ffffff",
   "admob_native_btn_color": "#1F64E5",
@@ -27,7 +27,7 @@
   "ads_animation_type": "zoominout",
   "ads_button_animation": false,
   "ads_click": 0,
-  "ads_type": "facebook",
+  "ads_type": "admob",
   "analytics": false,
   "back_click": 0,
   "bottom_ads_type": "nativebanner",
